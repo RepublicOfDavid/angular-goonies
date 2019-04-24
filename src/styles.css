@@ -1,0 +1,81 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import '~bootstrap/dist/css/bootstrap.css';
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+body{
+    font-family: 'Quicksand', sans-serif;
+    background-image: url(assets/images/background.jpg);
+}
+
+.header {
+    margin: 10% 0 0 0;
+}
+
+.header span.slogan {
+    float: left;
+    width: 100%;
+    color: #FFF;
+    text-align: center;
+}
+
+input, submit{
+    width: 100%;
+    cursor: pointer;
+}
+
+input.name {
+    border: 0;
+    background-color: #00000094;
+    padding: 2% 6%;
+    color: #FFF;
+    font-family: 'Quicksand', sans-serif;
+}
+
+input.submit {
+    border: 0;
+    padding: 4% 2%;
+    background-color: #FFF;
+    font-family: 'Quicksand', sans-serif;
+}
+
+img{
+    width: 100%; height: 100%;
+}
+
+form {
+    margin: 10% 0;
+}
+
+.middle {
+    background-color: #00000080;
+}
+
+.goonie {
+    margin: 0 0 5% 0;
+    border-bottom: 1px solid #FFF;
+    padding: 0 0 5% 0;
+}
+
+.goonie img {
+    border: 2px solid #fd6106;
+    border-radius: 50%;
+}
+
+button.del {
+    float: right;
+    background-color: transparent;
+    cursor: pointer;
+    border: none;
+}
+
+button.del img{
+    border: none;
+}
+
+span.name {
+    color: #FFF;
+    font-size: 22px;
+    margin: 26% 0 0 0;
+    float: left;
+}

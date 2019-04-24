@@ -1,0 +1,7 @@
+<app-add-goonie (addGoonie)="addGoonie($event)"></app-add-goonie>
+<app-goonie-item
+  *ngFor="let goonie of goonies"
+  [goonie]="goonie"
+  (deleteGoonie)="deleteGoonie($event)"
+>
+</app-goonie-item>

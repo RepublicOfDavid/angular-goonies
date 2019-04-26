@@ -1,0 +1,32 @@
+form {
+    margin: 4% 0;
+}
+
+input, submit{
+    width: 100%;
+}
+
+input.submit{
+    cursor: pointer;
+}
+
+input.name {
+    border: 0;
+    background-color: #00000094;
+    padding: 2% 6%;
+    color: #FFF;
+    font-family: 'Quicksand', sans-serif;
+}
+
+input.submit {
+    border: 0;
+    padding: 4% 2%;
+    background-color: #FFF;
+    font-family: 'Quicksand', sans-serif;
+}
+
+@media only screen and (max-width: 767px) {
+    input.submit{
+        padding: 1% 2%;
+    }
+  }

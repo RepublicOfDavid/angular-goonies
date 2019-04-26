@@ -1,0 +1,10 @@
+.header {
+    margin: 2% 0 0 0;
+}
+
+.header span.slogan {
+    float: left;
+    width: 100%;
+    color: #FFF;
+    text-align: center;
+}

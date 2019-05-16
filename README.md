@@ -1,27 +1,19 @@
-# CastList
+# Goonies Never Say Die! Calling, displaying and posting RESTful API data in Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+**Save The Goon Docks!**
 
-## Development server
+**JS Framework:** Angular (Version 7)<br>
+**CSS Framework:** Ng-Bootstrap<br>
+**External Dependencies:** [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com) *- Mock RESTful API*
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+**This app is doing the following:**
 
-## Code scaffolding
+- Calling data from a RESTful API
+- Displaying the data as a list
+- Posting back to the RESTful API (not really but it emulates it)
+- Using Ng-Bootstrap as my CSS framework
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+**Purpose of demo:** Demonstrate calling an API, displaying it's data and posting back to it.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+**View:** [Frontend](https://goonies-character-list.davidthomas.tech "See the front end in action"), [Files](https://github.com/RepublicOfDavid/goonies-character-list-development "Go to my Github")

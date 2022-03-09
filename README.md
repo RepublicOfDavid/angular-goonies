@@ -16,4 +16,4 @@
 
 **Purpose of demo:** Demonstrate calling an API, displaying it's data and posting back to it.
 
-**View:** [Frontend](https://goonies-character-list.davidthomas.tech "See the front end in action"), [Files](https://github.com/RepublicOfDavid/goonies-character-list-development "Go to my Github")
+**View:** [Frontend](https://goonies-character-list.netlify.app/ "See the front end in action")

@@ -13,7 +13,11 @@
 - Posting back to the RESTful API (not really but it emulates it)
 - Using Ng-Bootstrap as my CSS framework
 
-
 **Purpose of demo:** Demonstrate calling an API, displaying it's data and posting back to it.
 
-**View:** [Frontend](https://goonies-character-list.netlify.app/ "See the front end in action")
+**To view locally run:**
+- npm install
+- ng serve --open
+The app should then load on http://localhost:4200/
+
+**View:** [Frontend](https://angular-goonies.netlify.app/ "See the front end in action")
